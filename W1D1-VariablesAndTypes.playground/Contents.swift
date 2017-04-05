@@ -32,6 +32,7 @@ count = 10
 //: ### Challenge 1
 //:
 //: Now it's your turn. Change `greeting` to be a different string by using the assignment operator.
+greeting = "Changed Greeting!"
 
 
 
